@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/dev-labs-bg/twinkle/master/preview.gif)
 
-
+## Twinkle ✨
 
 `Twinkle` is a Kotlin library which makes any View in your Android app twinkle.
 
